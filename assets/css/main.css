@@ -3430,3 +3430,17 @@ footer {
     width: 70px;
     height: 70px;
 }
+
+.subscribe-inner .subscribe-title {
+    margin-bottom: 20px;
+}
+@media (min-width: 768px) {
+.subscribe-inner #conversion-form-worksho-0-a-50-15a66fbf4abffce66f2d {
+    max-width: 80%!important;
+
+margin: 0 auto!important;
+}}
+
+.subscribe-inner #conversion-form-worksho-0-a-50-15a66fbf4abffce66f2d input {
+    color: #1b1a1b !important;
+}
