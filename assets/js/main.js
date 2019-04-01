@@ -25,11 +25,10 @@
             openedSymbol: '<i class="lni-chevron-down"><i/>',
             brand: '<a href="index.html"><img src="' + logo_path + '" class="img-responsive" alt="logo"></a>'
         });
-        var wow = new WOW({mobile: false});
-        wow.init();
+      
         $('.lightbox').nivoLightbox({effect: 'fadeScale', keyboardNav: true,});
         $('.navbar-nav').onePageNav({currentClass: 'active'});
-        $('.counterUp').counterUp({delay: 10, time: 1500});
+       
         var offset = 200;
         var duration = 500;
         $(window).scroll(function () {
