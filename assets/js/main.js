@@ -26,7 +26,7 @@
             brand: '<a href="index.html"><img src="' + logo_path + '" class="img-responsive" alt="logo"></a>'
         });
       
-        $('.lightbox').nivoLightbox({effect: 'fadeScale', keyboardNav: true,});
+    
         $('.navbar-nav').onePageNav({currentClass: 'active'});
        
         var offset = 200;
