@@ -3444,3 +3444,16 @@ margin: 0 auto!important;
 .subscribe-inner #conversion-form-worksho-0-a-50-15a66fbf4abffce66f2d input {
     color: #1b1a1b !important;
 }
+
+@media(min-width: 768px) {
+.stylish-list {
+    font-size: 17px;
+
+}
+}
+
+.schedule .card-header {
+    position: relative;
+    padding: 35px 40px 35px 35px;
+    border-bottom: 1px;
+}

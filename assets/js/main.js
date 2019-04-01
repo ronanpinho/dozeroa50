@@ -9,7 +9,7 @@
                 $('.scrolling-navbar').removeClass('top-nav-collapse');
             }
         });
-        jQuery('#clock').countdown('2020/2/21', function (event) {
+        jQuery('#clock').countdown('2019/04/11 - 18:00', function (event) {
             var $this = jQuery(this).html(event.strftime(''
                 + '<div class="time-entry days"><span>%-D</span> <b>:</b> Dias</div> '
                 + '<div class="time-entry hours"><span>%H</span> <b>:</b> Horas</div> '
