@@ -3457,3 +3457,10 @@ margin: 0 auto!important;
     padding: 35px 40px 35px 35px;
     border-bottom: 1px;
 }
+
+.faixa-img {
+    position: absolute;
+    left: 15px;
+    top: 0px;
+    width: 38%;
+}
