@@ -3510,3 +3510,19 @@ footer {
         padding: 0;
     }
 }
+
+.modal-dialog {
+    margin: 3.75em auto;
+    z-index: 99999;
+}
+
+
+@media (max-width: 767px){
+    .modal-lg {
+        max-width: 100%;
+    }
+
+    #myModal {
+        padding-right: 0 !important;
+    }
+}
