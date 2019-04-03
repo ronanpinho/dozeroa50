@@ -3526,3 +3526,18 @@ footer {
         padding-right: 0 !important;
     }
 }
+
+.btn-alt {
+    display: table;
+    margin: 0 auto;
+    margin-top: 60px;
+}
+
+.opcoes p, li {
+    text-align: left;
+    font-weight: 600;
+}
+
+.opcoes h3 {
+    margin-top: 40px;
+}
