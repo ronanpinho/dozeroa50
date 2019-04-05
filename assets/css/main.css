@@ -3073,7 +3073,7 @@ footer {
 }
 
 #ingressos .price-block-wrapper .colmun-title h5 {
-    font-size: 20px;
+    font-size: 18px;
     color: #212121;
     margin-bottom: 20px;
     text-transform: uppercase;
@@ -3540,4 +3540,13 @@ footer {
 
 .opcoes h3 {
     margin-top: 40px;
+}
+
+#ingressos .price-block-wrapper .price span {
+    text-transform: uppercase;
+    font-size: 23px;
+}
+
+#ingressos .price-block-wrapper .price p {
+    font-size: 13px;
 }
